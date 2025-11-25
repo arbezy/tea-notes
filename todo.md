@@ -1,0 +1,2 @@
+- [] Add some simple formatting , i.e. bold, italic
+- [] connect to database so notes actually get saved
